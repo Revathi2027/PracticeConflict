@@ -1,2 +1,3 @@
-this is an editing in devbranch practice file
-this is an second line in dev branch
+
+this is an editing master branch practice file
+this is an second editing in master branch  practice file
